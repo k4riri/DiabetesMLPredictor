@@ -1,7 +1,7 @@
 # DIADETECT - Diabetes Prediction Project
 
 ## Overview
-This project, developed for the BSD 3204 Machine Learning class by Eric Kariri (22/00580), leverages R to predict diabetes using health metrics. It encompasses data preprocessing, feature selection, model training (SVM, Logistic Regression), and deployment via a Shiny app.
+This project leverages R to predict diabetes using health metrics. It encompasses data preprocessing, feature selection, model training (SVM, Logistic Regression), and deployment via a Shiny app.
 
 ## Getting Started
 
